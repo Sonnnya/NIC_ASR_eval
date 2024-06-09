@@ -1,0 +1,4 @@
+os
+jiwer
+re
+chardet
